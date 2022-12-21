@@ -1,0 +1,9 @@
+{
+    // a base da URL de qualquer arquivo que está dentro da pasta src é src
+    "compilerOptions":{
+        "baseUrl": "src"
+    },
+    "include": [
+        "src"
+    ]
+}
